@@ -1,12 +1,10 @@
 body{
     background-color: rgb(255, 243, 228);
-    
 }
 
 p {
     background-color: rgb(252, 252, 252);
-    font-family: "Mitr"
-    
+    font-family: "Mitr";
 }
 
 .font-center-header {
